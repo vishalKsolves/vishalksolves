@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @vishalksolves
 - 👀 I’m interested in development
-- 🌱 I’m currently learning salesforce
